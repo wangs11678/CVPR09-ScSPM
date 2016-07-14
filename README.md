@@ -1,1 +1,0 @@
-# CVPR09-ScSPM
